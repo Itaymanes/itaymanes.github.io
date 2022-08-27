@@ -4,7 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+- Natural Language Processing (NLP)
+- Causal Inference
+- Medical Machine Learning
+
+In my free time... massage, reading books...
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /

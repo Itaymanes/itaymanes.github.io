@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Itay Manes website"
 date:   2022-08-27 21:08:41 +0300
 categories: jekyll update
 ---
