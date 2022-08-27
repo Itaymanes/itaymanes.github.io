@@ -1,14 +1,10 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Blog
+permalink: /blog/
 ---
 
-- Natural Language Processing (NLP)
-- Causal Inference
-- Medical Machine Learning
-
-In my free time... massage, reading books...
+I usually write on niche things that ...
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
@@ -20,3 +16,4 @@ You can find the source code for Jekyll at GitHub:
 
 
 [jekyll-organization]: https://github.com/jekyll
+
